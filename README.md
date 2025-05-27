@@ -32,21 +32,26 @@ cd Port-Scanner
 python3 port_scanner.py
 ```
 
-### Usage
+### 🛠️ Usage
 1. Enter the target IP address or hostname.
 2. Click Start Scan.
 3. Wait for the scanner to check common ports (or your custom range, if implemented).
 4. View the results in the GUI output box.
 
+--- 
+
 ### ⚠️ Disclaimer
 This tool is intended for educational purposes and authorized testing only.
 Do not use it on networks or systems you don’t have permission to scan.
+
+---
 
 ### 👨‍💻 Author
 Manoj Meghwal (DevManoj96)
 GitHub: DevManoj96
 
+---
 ### 📄 License
 This project is open-source and available under the MIT License.
 
-
+---
